@@ -1,0 +1,24 @@
+{
+  "valid_user": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "locked_user": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "invalid_user": {
+    "username": "wrong_user",
+    "password": "wrong_pass"
+  },
+  "checkout_details": {
+    "first_name": "Pruthvi",
+    "last_name": "Jain",
+    "postal_code": "400001"
+  },
+  "products": {
+    "sauce_labs_backpack": "Sauce Labs Backpack",
+    "sauce_labs_bike_light": "Sauce Labs Bike Light",
+    "sauce_labs_bolt_tshirt": "Sauce Labs Bolt T-Shirt"
+  }
+}
